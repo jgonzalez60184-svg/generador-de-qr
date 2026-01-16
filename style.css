@@ -1,0 +1,4 @@
+body{font-family:system-ui, sans-serif; max-width:480px; margin:40px auto; padding:0 1rem}
+input{width:100%; padding:.5rem; margin:.5rem 0 1rem; font-size:1rem}
+button{padding:.6rem 1.2rem; font-size:1rem; cursor:pointer}
+#qrcode{margin-top:1.5rem; display:flex; justify-content:center}
